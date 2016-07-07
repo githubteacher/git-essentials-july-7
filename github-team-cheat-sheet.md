@@ -10,4 +10,5 @@
 
 ## Working with Remotes
 
-- Here's how!
+- This is how you do it!
+- First you need Remotes
