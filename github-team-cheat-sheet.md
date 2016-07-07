@@ -7,3 +7,7 @@
 - git add
 - git commit
 - git merge
+
+## Working with Remotes
+
+- Here's how!
