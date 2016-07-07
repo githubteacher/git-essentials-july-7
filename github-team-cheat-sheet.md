@@ -1,8 +1,8 @@
 ## Create a Local Repository
 
 - git init ==> creates the local repository
-- git status
-- git branch
+- git status ==> shows me what is happening in my working directory and staging area
+- git branch ==> shows me the local branches
 - git checkout
 - git add
 - git commit
