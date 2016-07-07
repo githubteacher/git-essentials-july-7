@@ -1,6 +1,6 @@
 ## Create a Local Repository
 
-- git init
+- git init ==> creates the local repository
 - git status
 - git branch
 - git checkout
@@ -10,5 +10,8 @@
 
 ## Working with Remotes
 
-- This is how you do it!
-- First you need Remotes
+- git clone
+- git branch --all
+- git checkout
+- git push -u origin <branch-name>
+- git pull
